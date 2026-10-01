@@ -6,4 +6,4 @@ def sum():
     return a + b
 
 
-sum() 
+sum()
