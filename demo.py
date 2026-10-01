@@ -1,8 +1,9 @@
-def sum():
+def added():
 
     a = 3
-    b = 45
-    return a+b
+    b = 5
+
+    return a + b
 
 
-sum()
+added()
